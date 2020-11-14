@@ -1,6 +1,6 @@
 # dokumentacja
 
-- [C#](https://github.com/JedrzejMatuszewski/dokumentacja/csharp)
-- [Python](https://github.com/JedrzejMatuszewski/dokumentacja/python/)
-  - [Django](https://github.com/JedrzejMatuszewski/dokumentacja/python/django)
+- ### [C#](https://github.com/JedrzejMatuszewski/dokumentacja/tree/main/csharp)
+- ### [Python](https://github.com/JedrzejMatuszewski/dokumentacja/tree/main/python)
+  - #### [Django](https://github.com/JedrzejMatuszewski/dokumentacja/tree/main/python/django)
 
